@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+
+  <title>mrdavidlaing/quicksplash @ GitHub</title>
+
+  <style type="text/css">
+    body {
+      margin-top: 1.0em;
+      background-color: #7093f0;
+      font-family: Helvetica, Arial, FreeSans, san-serif;
+      color: #000000;
+    }
+    #container {
+      margin: 0 auto;
+      width: 700px;
+    }
+    h1 { font-size: 3.8em; color: #8f6c0f; margin-bottom: 3px; }
+    h1 .small { font-size: 0.4em; }
+    h1 a { text-decoration: none }
+    h2 { font-size: 1.5em; color: #8f6c0f; }
+    h3 { text-align: center; color: #8f6c0f; }
+    a { color: #8f6c0f; }
+    .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
+    .download { float: right; }
+    pre { background: #000; color: #fff; padding: 15px;}
+    hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
+    .footer { text-align:center; padding-top:30px; font-style: italic; }
+  </style>
+</head>
+
+<body>
+  <a href="http://github.com/mrdavidlaing/quicksplash"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+
+  <div id="container">
+
+    <div class="download">
+      <a href="http://github.com/mrdavidlaing/quicksplash/zipball/master">
+        <img border="0" width="90" src="http://github.com/images/modules/download/zip.png"></a>
+      <a href="http://github.com/mrdavidlaing/quicksplash/tarball/master">
+        <img border="0" width="90" src="http://github.com/images/modules/download/tar.png"></a>
+    </div>
+
+    <h1><a href="http://github.com/mrdavidlaing/quicksplash">QuickSplash.NET</a>
+      <span class="small">by <a href="http://github.com/mrdavidlaing">mrdavidlaing</a></span></h1>
+
+    <div class="description">
+      Super fast loading splashscreen for .NET applications.     
+
+Make your Windows Forms / Visual Basic / VB.NET / C# .NET app startup instantly!
+    </div>
+
+    <p>QuickSplash.NET will instantly (<0.5s) launch a splash screen for your Windows Forms application, giving your users immediate feedback whilst the .NET framework and your Windows application loads in the background.  This dramatically improves the perceived performance of your application.
+
+First impressions count!  Should nothing happen for 10 seconds after launching your fantastic Windows application, your users will conclude that your application is slow and of poor quality.  You need to let them know that something is happening - whilst your application loads in the background.
+
+The .NET startup problem
+
+Before your Windows Forms / Visual Basic / VB.NET / C# .NET can do anything (even show a splashscreen), the .NET framework must be loaded into memory.  On a cold start (i.e, just after a reboot), the .NET framework isn’t loaded into memory by default, nor is it in the disk cache; so approximately 21Mb must first be loaded from disk before your application gets to execute its first instruction.  Depending on hard disk speed, this can take up to 7sec on 2005 hardware, or 20sec on 2001 hardware!
+
+The result is that the time between the user clicking on your application icon, and the first indication that something (anything!) happened can be up to 20 seconds.  Users will often end up clicking on the app icon multiple times, trying to make something happen, and thinking “what a crap app!”  Not the kind of first impression you want, especially if you are trying to entice your users away from a "speedy" legacy application.
+
+The Solution
+
+QuickSplash.NET is a native Win32 component that shows a (customised) splashscreen - in less than 0.5 seconds, whilst loading your Windows Forms / Visual Basic / VB.NET / C# .NET application in the background.  Once the framework and your application has initialised, a simple file deletion tells the splashscreen to shut down.
+
+This dramatically improves the perceived startup performance of your application.  Rather than having to wait for up to 20 seconds wondering if anything is happening, your users watch an interactive splash screen giving them a progress update of what is happening.  20 seconds just seem to fly buy when you're distracted by something.</p><h2>Dependencies</h2>
+<p>Running: Windows
+Building: Delphi 7</p>
+<h2>Install</h2>
+<p>Download from releases/ folder and read the included PDF manual.</p>
+<h2>License</h2>
+<p>MIT</p>
+<h2>Authors</h2>
+<p>David Laing (david@davidlaing.com)<br/>Brian Grantham (grantham.brian@gmail.com)<br/><br/>      </p>
+<h2>Contact</h2>
+<p>David Laing (david@davidlaing.com)<br/>      </p>
+
+
+    <h2>Download</h2>
+    <p>
+      You can download this project in either
+      <a href="http://github.com/mrdavidlaing/quicksplash/zipball/master">zip</a> or
+      <a href="http://github.com/mrdavidlaing/quicksplash/tarball/master">tar</a> formats.
+    </p>
+    <p>You can also clone the project with <a href="http://git-scm.com">Git</a>
+      by running:
+      <pre>$ git clone git://github.com/mrdavidlaing/quicksplash</pre>
+    </p>
+
+    <div class="footer">
+      get the source code on GitHub : <a href="http://github.com/mrdavidlaing/quicksplash">mrdavidlaing/quicksplash</a>
+    </div>
+
+  </div>
+
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-264906-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
