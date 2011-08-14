@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-ProgressBarAndStatusLabel", "CSharp-ProgressBarAndStatusLabel\CSharp-ProgressBarAndStatusLabel.csproj", "{447993F8-D26D-48B1-A038-0CD421F5BABF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-ProgressBarAndStatusLabel", "VB-ProgressBarAndStatusLabel\VB-ProgressBarAndStatusLabel.vbproj", "{1646E055-58BF-4C60-BE02-78AB955794E6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup-VB-ProgressBarAndStatusLabel", "Setup-VB-ProgressBarAndStatusLabel\Setup-VB-ProgressBarAndStatusLabel.vdproj", "{1E3E842E-16D1-428F-BA0B-C04DD56B27E1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{447993F8-D26D-48B1-A038-0CD421F5BABF}.Debug.ActiveCfg = Debug|.NET
+		{447993F8-D26D-48B1-A038-0CD421F5BABF}.Debug.Build.0 = Debug|.NET
+		{447993F8-D26D-48B1-A038-0CD421F5BABF}.Release.ActiveCfg = Release|.NET
+		{447993F8-D26D-48B1-A038-0CD421F5BABF}.Release.Build.0 = Release|.NET
+		{1646E055-58BF-4C60-BE02-78AB955794E6}.Debug.ActiveCfg = Debug|.NET
+		{1646E055-58BF-4C60-BE02-78AB955794E6}.Debug.Build.0 = Debug|.NET
+		{1646E055-58BF-4C60-BE02-78AB955794E6}.Release.ActiveCfg = Release|.NET
+		{1646E055-58BF-4C60-BE02-78AB955794E6}.Release.Build.0 = Release|.NET
+		{1E3E842E-16D1-428F-BA0B-C04DD56B27E1}.Debug.ActiveCfg = Debug
+		{1E3E842E-16D1-428F-BA0B-C04DD56B27E1}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

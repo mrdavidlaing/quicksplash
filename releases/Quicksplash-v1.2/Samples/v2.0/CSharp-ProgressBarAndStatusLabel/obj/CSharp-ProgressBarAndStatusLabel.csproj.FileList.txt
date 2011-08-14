@@ -1,0 +1,14 @@
+bin\Debug\SplashConfig.cfg
+bin\Debug\ConnectWait.ico
+bin\Debug\GoogleLocations.DataSet1.xml
+bin\Debug\SplashScreen-ProgressBar.bmp
+bin\Debug\SplashScreen-Background.jpg
+bin\Debug\CSharp-ProgressBarAndStatusLabel.exe
+bin\Debug\CSharp-ProgressBarAndStatusLabel.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CSharp_ProgressBarAndStatusLabel.Form1.resources
+obj\Debug\CSharp_ProgressBarAndStatusLabel.Properties.Resources.resources
+obj\Debug\CSharp-ProgressBarAndStatusLabel.csproj.GenerateResource.Cache
+obj\Debug\CSharp-ProgressBarAndStatusLabel.exe
+obj\Debug\CSharp-ProgressBarAndStatusLabel.pdb
+bin\Debug\Splash.exe

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+	<Url>
+		<Url><![CDATA[http://maps.google.co.uk/maps?f=q&hl=en&t=k&ll=53.537649,-1.505116&spn=0.001172,0.002591&t=k]]></Url>
+		<Title>Crop circles in Wales, UK</Title>
+	</Url>
+	<Url>
+		<Url><![CDATA[http://maps.google.com/?t=k&ll=-32.011915,115.786403&spn=0.003275,0.004989&t=k]]></Url>
+		<Title>Flying car in Australia</Title>
+	</Url>
+	<Url>
+		<Url><![CDATA[http://maps.google.com/?ll=39.280043,-94.748781&spn=0.00218,0.003659&t=h]]></Url>
+		<Title>Heart shaped forest in Kansas, USA</Title>
+	</Url>
+</DataSet1>

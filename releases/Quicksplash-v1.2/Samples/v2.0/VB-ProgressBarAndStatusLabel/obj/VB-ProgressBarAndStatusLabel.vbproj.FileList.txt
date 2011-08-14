@@ -1,0 +1,16 @@
+bin\Debug\SplashConfig.cfg
+bin\Debug\ConnectWait.ico
+bin\Debug\GoogleLocations.DataSet1.xml
+bin\Debug\SplashScreen-ProgressBar.bmp
+bin\Debug\SplashScreen-Background.jpg
+bin\Debug\VB-ProgressBarAndStatusLabel.exe
+bin\Debug\VB-ProgressBarAndStatusLabel.pdb
+bin\Debug\VB-ProgressBarAndStatusLabel.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VB_ProgressBarAndStatusLabel.Form1.resources
+obj\Debug\VB_ProgressBarAndStatusLabel.Resources.resources
+obj\Debug\VB-ProgressBarAndStatusLabel.vbproj.GenerateResource.Cache
+obj\Debug\VB-ProgressBarAndStatusLabel.exe
+obj\Debug\VB-ProgressBarAndStatusLabel.xml
+obj\Debug\VB-ProgressBarAndStatusLabel.pdb
+bin\Debug\Splash.exe
