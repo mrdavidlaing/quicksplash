@@ -22,6 +22,7 @@ This dramatically improves the perceived startup performance of your application
 
 1. Download the lastest release from releases/
 1. Follow the instructions in the included PDF manual.
+1. Use the license key: 409015232017034763863342786458
 
 ##Building from source
 
